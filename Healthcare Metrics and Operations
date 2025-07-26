@@ -1,0 +1,10 @@
+/project-name
+│
+├── README.md
+├── /data_raw                → CSVs, Excel exports, Kaggle data
+├── /data_cleaned            → Processed, cleaned versions
+├── /sql                     → Queries, joins, subqueries
+├── /excel                   → Pivot tables, charts, sheets
+├── /tableau                 → Dashboard screenshots + link
+├── /notebooks (optional)    → Jupyter notebooks or notes
+└── case-study.md            → Full write-up of your project
