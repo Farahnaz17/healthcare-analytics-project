@@ -5,7 +5,7 @@ This project demonstrates the end-to-end data analysis process using a synthetic
 
 
 
- 1. Ask
+  Ask
 
 Problem Statement:
 High patient no-show rates and inconsistent revenue collection negatively impact healthcare operations. Understanding patient appointment behavior and billing trends can help reduce inefficiencies and improve patient care.
@@ -24,7 +24,7 @@ Guided Questions:
 
 
 
- 2. Prepare
+ Prepare
 
 Created synthetic datasets: Patients, Appointments, Providers, Billing.
 
@@ -35,8 +35,7 @@ Structured into relational tables for analysis.
 
 
 
-
-3. Process
+Process
 
 Cleaned missing values and standardized categories in Excel.
 
@@ -47,7 +46,7 @@ Joined tables for cross-functional analysis.
 
 
 
- 4. Analyze
+Analyze
 
 SQL queries calculated no-show rates, revenue trends, and insurance breakdowns.
 
@@ -59,7 +58,7 @@ Tableau dashboards visualized patient volume, demographics, and billing efficien
 
 
 
- 5. Share
+Share
 
 Insights Uncovered:
 
@@ -76,7 +75,7 @@ Patient volume showed seasonality, peaking during flu season (fall/winter).
 
 
 
- 6. Act
+Act
 
 Takeaways & Next Steps:
 
