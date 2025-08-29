@@ -1,4 +1,4 @@
-📊 Mock Healthcare Data – Capstone Project
+ Mock Healthcare Data – Capstone Project
 
 This project demonstrates the end-to-end data analysis process using a synthetic healthcare dataset (mock data only, no PHI). It simulates real-world challenges like appointment no-shows, revenue tracking, and patient volume trends, allowing me to showcase SQL, Excel, and Tableau skills.
 
@@ -63,16 +63,16 @@ Tableau dashboards visualized patient volume, demographics, and billing efficien
 
 Insights Uncovered:
 
-📉 No-show rates averaged 18%, with spikes on Mondays and in winter months.
+ No-show rates averaged 18%, with spikes on Mondays and in winter months.
 
-💰 Private insurance patients generated the highest revenue, while uninsured patients had larger unpaid balances.
+ Private insurance patients generated the highest revenue, while uninsured patients had larger unpaid balances.
 
-👩‍⚕️ Primary Care & Pediatrics accounted for the largest share of appointments.
+ Primary Care & Pediatrics accounted for the largest share of appointments.
 
-📊 Patient volume showed seasonality, peaking during flu season (fall/winter).
+Patient volume showed seasonality, peaking during flu season (fall/winter).
 
 
-👉 [ https://public.tableau.com/views/HealthcareDashboardAppointmentTrendsRevenueandNo-ShowKPIs/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+ [ https://public.tableau.com/views/HealthcareDashboardAppointmentTrendsRevenueandNo-ShowKPIs/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 
 
 
