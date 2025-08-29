@@ -1,4 +1,4 @@
- Mock Healthcare Data – Capstone Project
+Clinical Operations Metrics: Mock Healthcare Data – Capstone Project
 
 This project demonstrates the end-to-end data analysis process using a synthetic healthcare dataset (mock data only, no PHI). It simulates real-world challenges like appointment no-shows, revenue tracking, and patient volume trends, allowing me to showcase SQL, Excel, and Tableau skills.
 
