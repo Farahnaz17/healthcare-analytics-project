@@ -1,0 +1,50 @@
+AppointmentID,PatientID,AppointmentDate,Department,AppointmentStatus,DocotorName,CheckInTime,CheckOutTime
+A0011,p019,12/24/23,Cardiology,Canceled, Dr. Savoie,12:45 PM,1:34 PM
+A0021,p028,10/15/24,Orthopedics,Completed, Dr. Ibrahim,9:00 AM,10:26 AM
+A0031,p030,09/17/24, Pediatrics,No-show, Dr. Pierre,10:45 AM,11:21 AM
+A0041,p014,03/14/23,Orthopedics,Canceled, Dr. Ibrahim,11:00 AM,12:20 PM
+A0051,p018,05/30/24,Dermatology,No-show, Dr. Pierre,8:15 AM,8:55 AM
+A0061,p024,03/22/23, Pediatrics,No-show, Dr. Pierre,8:15 AM,9:36 AM
+A0071,p016,09/25/23,Orthopedics,No-show, Dr. Chen,3:15 PM,4:02 PM
+A0081,p033,12/17/24,Cardiology,Canceled, Dr. Ibrahim,9:15 AM,10:31 AM
+A0091,p026,03/25/24, Pediatrics,Completed,Dr. Lamont ,12:30 PM,1:39 PM
+A0101,p041,07/01/24,Orthopedics,No-show, Dr. Ibrahim,8:15 AM,9:27 AM
+A0111,p018,04/20/23,Orthopedics,No-show, Dr. Ibrahim,1:45 PM,2:56 PM
+A0121,p019,03/14/23,Dermatology,No-show, Dr. Chen,2:00 PM,3:27 PM
+A0131,p042,06/25/24,Orthopedics,No-show, Dr. Pierre,9:30 AM,10:49 AM
+A0141,p019,10/27/24,Dermatology,Canceled,Dr. Lamont ,3:30 PM,4:38 PM
+A0151,p034,04/06/24,Dermatology,Canceled, Dr. Chen,9:45 AM,11:02 AM
+A0161,p049,04/22/23, Pediatrics,Canceled, Dr. Ibrahim,2:30 PM,3:03 PM
+A0171,p041,08/06/24,Orthopedics,No-show, Dr. Pierre,3:30 PM,4:16 PM
+A0181,p011,12/31/24,General Practice,No-show, Dr. Chen,1:30 PM,2:52 PM
+A0191,p022,04/22/24,Orthopedics,Canceled, Dr. Savoie,8:45 AM,9:31 AM
+A0201,p036,05/13/23,Cardiology,No-show, Dr. Pierre,11:00 AM,12:29 PM
+A0211,p039,01/04/23,Orthopedics,Completed, Dr. Chen,2:45 PM,4:11 PM
+A0221,p002,02/17/24,Dermatology,Canceled, Dr. Savoie,3:45 PM,4:33 PM
+A0231,p007,11/04/24,Orthopedics,No-show, Dr. Savoie,9:45 AM,10:40 AM
+A0241,p013,09/06/23,Dermatology,Canceled, Dr. Chen,8:15 AM,8:48 AM
+A0251,p033,03/14/24,Orthopedics,Canceled, Dr. Savoie,12:00 PM,1:06 PM
+A0261,p030,06/04/24,Cardiology,Completed, Dr. Savoie,9:00 AM,10:20 AM
+A0271,p001,05/18/23,General Practice,Canceled, Dr. Ibrahim,10:00 AM,11:07 AM
+A0281,p030,11/15/24,Orthopedics,Canceled, Dr. Pierre,11:00 AM,11:43 AM
+A0291,p031,08/08/24, Pediatrics,No-show, Dr. Chen,1:30 PM,2:34 PM
+A0301,p008,12/26/24,Orthopedics,Completed,Dr. Lamont ,1:00 PM,2:10 PM
+A0311,p010,11/17/23,Cardiology,Completed, Dr. Chen,8:00 AM,8:37 AM
+A0321,p030,05/24/23,Dermatology,Canceled, Dr. Ibrahim,9:30 AM,10:38 AM
+A0331,p048,08/04/23,Cardiology,Canceled, Dr. Ibrahim,1:00 PM,2:28 PM
+A0341,p016,11/02/23, Pediatrics,Completed, Dr. Savoie,2:45 PM,3:32 PM
+A0351,p028,10/06/24, Pediatrics,No-show, Dr. Pierre,10:30 AM,11:21 AM
+A0361,p002,10/22/23,General Practice,No-show,Dr. Lamont ,3:00 PM,3:38 PM
+A0371,p037,12/02/23,Cardiology,Canceled, Dr. Pierre,11:00 AM,12:21 PM
+A0381,p033,04/02/23,Orthopedics,No-show,Dr. Lamont ,3:15 PM,4:11 PM
+A0391,p035,07/28/24,General Practice,Completed, Dr. Pierre,10:30 AM,11:43 AM
+A0401,p035,11/21/24,Cardiology,Completed,Dr. Lamont ,10:30 AM,11:02 AM
+A0411,p035,08/27/24,Dermatology,No-show, Dr. Savoie,12:15 PM,1:41 PM
+A0421,p037,04/11/23,Cardiology,Completed, Dr. Savoie,2:30 PM,3:19 PM
+A0431,p007,04/20/24,Cardiology,Canceled, Dr. Pierre,10:30 AM,11:00 AM
+A0441,p020,05/28/24, Pediatrics,Canceled, Dr. Savoie,3:30 PM,4:33 PM
+A0451,p004,09/27/24,Orthopedics,Completed, Dr. Chen,3:30 PM,4:39 PM
+A0461,p013,04/09/24,Cardiology,Canceled, Dr. Savoie,8:30 AM,9:20 AM
+A0471,p001,12/09/23,Dermatology,Completed,Dr. Lamont ,8:45 AM,10:14 AM
+A0481,p035,11/11/24,General Practice,Completed, Dr. Chen,9:00 AM,10:12 AM
+A0491,p042,01/06/23, Pediatrics,Canceled, Dr. Chen,11:45 AM,1:04 PM
