@@ -1,11 +1,10 @@
-Clinical Operations Metrics: Mock Healthcare Data – Capstone Project
+***Clinical Operations Metrics: Mock Healthcare Data – Capstone Project***
 
 This project demonstrates the end-to-end data analysis process using a synthetic healthcare dataset (mock data only, no PHI). It simulates real-world challenges like appointment no-shows, revenue tracking, and patient volume trends, allowing me to showcase SQL, Excel, and Tableau skills.
 
 
 
-
-  Ask
+***Ask**
 
 Problem Statement:
 High patient no-show rates and inconsistent revenue collection negatively impact healthcare operations. Understanding patient appointment behavior and billing trends can help reduce inefficiencies and improve patient care.
@@ -24,7 +23,7 @@ Guided Questions:
 
 
 
- Prepare
+**Prepare**
 
 Created synthetic datasets: Patients, Appointments, Providers, Billing.
 
@@ -35,7 +34,7 @@ Structured into relational tables for analysis.
 
 
 
-Process
+**Process**
 
 Cleaned missing values and standardized categories in Excel.
 
@@ -45,8 +44,7 @@ Joined tables for cross-functional analysis.
 
 
 
-
-Analyze
+***Analyze***
 
 SQL queries calculated no-show rates, revenue trends, and insurance breakdowns.
 
@@ -58,7 +56,7 @@ Tableau dashboards visualized patient volume, demographics, and billing efficien
 
 
 
-Share
+***Share***
 
 Insights Uncovered:
 
@@ -75,7 +73,7 @@ Patient volume showed seasonality, peaking during flu season (fall/winter).
 
 
 
-Act
+***Act***
 
 Takeaways & Next Steps:
 
@@ -86,7 +84,7 @@ Recommended reminder interventions (calls/texts) to reduce no-shows.
 Suggested analyzing insurance coverage mix for financial planning.
 
 
-Future Improvements:
+***Future Improvements***:
 
 Expand dataset to include clinical outcomes.
 
