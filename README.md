@@ -73,7 +73,7 @@ Patient volume showed seasonality, peaking during flu season (fall/winter).
 
 
 
-**Act***
+**Act**
 
 Takeaways & Next Steps:
 
