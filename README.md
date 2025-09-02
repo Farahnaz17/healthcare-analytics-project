@@ -1,98 +1,124 @@
-***Clinical Operations Metrics: Mock Healthcare Data – Capstone Project***
+**Healthcare Operations**
 
-This project demonstrates the end-to-end data analysis process using a synthetic healthcare dataset (mock data only, no PHI). It simulates real-world challenges like appointment no-shows, revenue tracking, and patient volume trends, allowing me to showcase SQL, Excel, and Tableau skills.
+Project Overview
 
-
-
-**Ask**
-
-Problem Statement:
-High patient no-show rates and inconsistent revenue collection negatively impact healthcare operations. Understanding patient appointment behavior and billing trends can help reduce inefficiencies and improve patient care.
-
-Guided Questions:
-
-1. What are the trends in appointment attendance (completed, cancelled, no-show) over time?
+This project simulates a healthcare dataset to analyze patient outcomes, revenue trends, and operational efficiency. The goal is to uncover insights that can help healthcare administrators make data-driven decisions.
 
 
-2. How do patient demographics and insurance type impact revenue and appointment outcomes?
+**ASK**
 
+🎯 Problem Statement
 
-3. Which provider specialties and appointment types drive the highest patient volume and charges?
+What patterens in patient attendance, appointment types, and revenue can be uncovered to help reduce no-sho ratesand improve overall healthcare operaions efficiency?
+
+3 Guided Questions:
 
 
 
 
 
-**Prepare**
-
-Created synthetic datasets: Patients, Appointments, Providers, Billing.
-
-Ensured dataset was clean, consistent, and de-identified.
-
-Structured into relational tables for analysis.
 
 
+**Tools & Data**
 
+Data Source: Mock healthcare dataset simulating patient visits 
+Tools Used: SQL, Tableau, Excel
 
-**Process**
+Key Variables:
 
-Cleaned missing values and standardized categories in Excel.
+patient_id – unique patient identifier
 
-Normalized data with primary/foreign keys in SQL.
+visit_date / check_in_time / check_out_time
 
-Joined tables for cross-functional analysis.
+appointment_type – e.g., consultation, follow-up
 
+no_show – patient attendance status
 
-
-***Analyze***
-
-SQL queries calculated no-show rates, revenue trends, and insurance breakdowns.
-
-Excel pivot tables provided summary statistics.
-
-Tableau dashboards visualized patient volume, demographics, and billing efficiency.
+revenue – payment received
 
 
 
 
+Data Cleaning & Preparation
 
-**Share***
+Removed duplicate and incomplete records
 
-Insights Uncovered:
+Converted timestamps into day, month, and visit duration
 
- No-show rates averaged 18%, with spikes on Mondays and in winter months.
+Standardized appointment types and patient categories
 
- Private insurance patients generated the highest revenue, while uninsured patients had larger unpaid balances.
-
- Primary Care & Pediatrics accounted for the largest share of appointments.
-
-Patient volume showed seasonality, peaking during flu season (fall/winter).
+Aggregated revenue and no-show metrics for analysis
 
 
- [ https://public.tableau.com/views/HealthcareDashboardAppointmentTrendsRevenueandNo-ShowKPIs/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 
+**Analyze & Share**
+
+
+Analysis & Insights
+
+Key Questions Answered:
+
+1. What are peak patient volumes by day/week/month?
+
+
+2. Which appointment types have the highest no-show rates?
+
+
+3. How does revenue trend over time?
+
+
+4. What factors correlate with patient attendance?
+
+
+
+Insights:
+
+No-shows are higher for certain appointment types and days
+
+Peak patient load occurs on mid-week mornings
+
+Revenue trends align closely with patient volume
+
+Operational bottlenecks can be identified for process improvement
+
+
+Tableau Dashboard:
+📈 View Dashboard [ https://public.tableau.com/views/HealthcareDashboardAppointmentTrendsRevenueandNo-ShowKPIs/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link ]
+
+
+**Deliverables**
+
+Cleaned SQL tables for patient and revenue analysis
+
+Tableau dashboards visualizing trends and operational metrics
+
+Insights report highlighting recommendations for administrators
 
 
 **Act**
 
-Takeaways & Next Steps:
 
-Clear visual storytelling made trends actionable for stakeholders.
+**Recommendations**
 
-Recommended reminder interventions (calls/texts) to reduce no-shows.
+Implement reminder notifications for high-risk no-show appointments
 
-Suggested analyzing insurance coverage mix for financial planning.
+Optimize staffing schedules during peak hours
 
+Focus on appointment types with higher revenue potential
 
-**Future Improvements***:
-
-Expand dataset to include clinical outcomes.
-
-Apply predictive modeling to forecast no-shows and revenue.
-
-Automate workflows with Python/dbt for scalability.
+Use data-driven scheduling to reduce patient wait times
 
 
+
+**What I Would Do Differently**
+
+Include patient demographics to better understand patterns
+
+Integrate insurance type and payment data for revenue analysis
+
+Predict no-shows using machine learning models
+
+Conduct longitudinal studies for patient retention
 
 
 
