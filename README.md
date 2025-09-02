@@ -4,7 +4,7 @@ This project demonstrates the end-to-end data analysis process using a synthetic
 
 
 
-***Ask**
+**Ask**
 
 Problem Statement:
 High patient no-show rates and inconsistent revenue collection negatively impact healthcare operations. Understanding patient appointment behavior and billing trends can help reduce inefficiencies and improve patient care.
@@ -56,7 +56,7 @@ Tableau dashboards visualized patient volume, demographics, and billing efficien
 
 
 
-***Share***
+**Share***
 
 Insights Uncovered:
 
@@ -73,7 +73,7 @@ Patient volume showed seasonality, peaking during flu season (fall/winter).
 
 
 
-***Act***
+**Act***
 
 Takeaways & Next Steps:
 
@@ -84,7 +84,7 @@ Recommended reminder interventions (calls/texts) to reduce no-shows.
 Suggested analyzing insurance coverage mix for financial planning.
 
 
-***Future Improvements***:
+**Future Improvements***:
 
 Expand dataset to include clinical outcomes.
 
