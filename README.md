@@ -7,24 +7,22 @@ This project simulates a healthcare dataset to analyze patient outcomes, revenue
 
 **ASK**
 
-🎯 Problem Statement
+**Problem Statement**
 
 What patterens in patient attendance, appointment types, and revenue can be uncovered to help reduce no-sho ratesand improve overall healthcare operaions efficiency?
 
 3 Guided Questions:
 
+1. What trends exist in patient attendance across appointment types, times, and days, and how do these patterns affect no-show rates?
+2. How do appointment types (consultations, follow-ups, specialty visits) correlate with revenue and patient retention?
+3. Which operational factors (check-in times, appointment volumes, peak days) most strongly impact efficiency and overall patient flow?
 
+**Prepare**
 
-
-
-
-
-**Tools & Data**
-
-Data Source: Mock healthcare dataset simulating patient visits 
+Data Source: Created Mock healthcare dataset simulating patient visits 
 Tools Used: SQL, Tableau, Excel
 
-Key Variables:
+**Key Variables:**
 
 patient_id – unique patient identifier
 
@@ -37,7 +35,10 @@ no_show – patient attendance status
 revenue – payment received
 
 
+**Process**
 
+
+Created a structured dataset including patient ID, visit date, department, scheduled vs attended appointments, revenue, and insurance type
 
 Data Cleaning & Preparation
 
@@ -59,16 +60,8 @@ Analysis & Insights
 Key Questions Answered:
 
 1. What are peak patient volumes by day/week/month?
-
-
 2. Which appointment types have the highest no-show rates?
-
-
-3. How does revenue trend over time?
-
-
-4. What factors correlate with patient attendance?
-
+3. What factors correlate with patient attendance?
 
 
 Insights:
